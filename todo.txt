@@ -1,5 +1,5 @@
 (siempre ajustar los directorios)//always check that you are in a correct directory (base one is recommended)
-1. juntar urls en urltest8.txt  //join urls from urltest8.ycy
+1. juntar urls en urltest8.txt  //join urls from urltest8.txt
 2. ejecutar wget3.py   //execute wget3.py 
 3. ejecutar delmaindir.py  //execute delmaindir.py that delete what is in the blog main dir, only subdirs remain
 	borra todo lo q esta en el dir principal del blog
