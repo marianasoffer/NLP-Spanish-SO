@@ -11,3 +11,7 @@
 6.usar sacashit.py que lista los outlinks relevantes. //exec sacashit that lists relevant outlinks
 6.1 tambien  se puede usar el de windy agregandole //exec if you want windy. adds more data related to datashit
 los ifts que le puse al sacashit para no autolinkearse.
+
+
+Yoy can also use linkExtractor.py that uses regular expression to see the outgoing links from the current page, this is more detail than link,
+there is also link2 that has some small difference from link, but also extract links from page.
