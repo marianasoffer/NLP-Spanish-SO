@@ -1,0 +1,13 @@
+(siempre ajustar los directorios)
+1. juntar urls en urltest8.txt
+2. ejecutar wget3.py
+3. ejecutar delmaindir.py
+	borra todo lo q esta en el dir principal del blog
+	para dejar solo entradas con comments en subdir
+4. ejecutar flattendirs3.py
+	lleva todos los html al directorio principal
+5. ejecutar flattendirs2.py, saca los subdirectorios ya inutiles
+5.5 ejecutar links.py
+6.usar sacashit.py que lista los outlinks relevantes.
+6.1 tambien  se puede usar el de windy agregandole 
+los ifts que le puse al sacashit para no autolinkearse.
