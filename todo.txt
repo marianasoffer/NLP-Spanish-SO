@@ -1,13 +1,13 @@
-(siempre ajustar los directorios)
-1. juntar urls en urltest8.txt
-2. ejecutar wget3.py
-3. ejecutar delmaindir.py
+(siempre ajustar los directorios)//always check that you are in a correct directory (base one is recommended)
+1. juntar urls en urltest8.txt  //join urls from urltest8.ycy
+2. ejecutar wget3.py   //execute wget3.py 
+3. ejecutar delmaindir.py  //execute delmaindir.py that delete what is in the blog main dir, only subdirs remain
 	borra todo lo q esta en el dir principal del blog
 	para dejar solo entradas con comments en subdir
-4. ejecutar flattendirs3.py
+4. ejecutar flattendirs3.py  //execute flattendir3.py brings all html to the main dir
 	lleva todos los html al directorio principal
-5. ejecutar flattendirs2.py, saca los subdirectorios ya inutiles
-5.5 ejecutar links.py
-6.usar sacashit.py que lista los outlinks relevantes.
-6.1 tambien  se puede usar el de windy agregandole 
+5. ejecutar flattendirs2.py, saca los subdirectorios ya inutiles //exec lattendir2.py removes obsolete dirs
+5.5 ejecutar links.py //execu links
+6.usar sacashit.py que lista los outlinks relevantes. //exec sacashit that lists relevant outlinks
+6.1 tambien  se puede usar el de windy agregandole //exec if you want windy. adds more data related to datashit
 los ifts que le puse al sacashit para no autolinkearse.
